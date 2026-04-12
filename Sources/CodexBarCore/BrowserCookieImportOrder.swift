@@ -40,6 +40,7 @@ extension Browser {
              .arc, .arcBeta, .arcCanary,
              .chatgptAtlas,
              .chromium,
+             .yandex,
              .brave, .braveBeta, .braveNightly,
              .edge, .edgeBeta, .edgeCanary,
              .helium,
